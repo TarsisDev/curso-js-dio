@@ -1,13 +1,9 @@
-/* Faça um programa para calcular o valor de uma viagem.
-Você terá 5 variáveis. Sendo elas:
-
-    1 Preço do etanol;
-    2 Preço do gasolina;
-    3 O tipo de combustível que está no seu carro;
-    4 Gasto médio de combustível do carro por KM;
-    5 Distância em KM da viagem;
-
-Imprima no console o valor que será gasto para realizar esta viagem.
+/* 1) Faça um algoritimo que dado as 3 notas tiradas por um aluno em um semestre da faculdade calcule e imprima a sua média e a sua classificação conforme a tabela abaixo.
+Média = (nota 1 + nota 2 + nota 3) / 3;
+Classificação:
+Média menor que 5, reprovação;
+Média entre 5 e 7, recuperação; I
+Média acima de 7, passou de semestre;
 */
 const precoGasolina = 6.65;
 const precoEtanol = 4.95;
